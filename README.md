@@ -32,4 +32,5 @@ the [Swing API](https://en.wikipedia.org/wiki/Swing_(Java)).
 ## Credit
 
 *Logo - [CrazyTaco93](https://www.deviantart.com/crazytaco93/art/Warframe-513160599)*
+<br>
 *Font - [Asian Music Records](https://www.dropbox.com/s/xfamas87v5b2dda/Warframe%20Fan%20Font.zip?dl=0)*
