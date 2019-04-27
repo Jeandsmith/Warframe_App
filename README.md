@@ -1,5 +1,5 @@
 <!-- Title -->
-# Tenno Managament System
+![# Tenno Managament System](/Resources/warframe.jpg)
 
 This will be a simple application to manage Tenno inventory,
 and location in which components, and resources can be found.
