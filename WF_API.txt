@@ -1,0 +1,9 @@
+providing an API with raw data (for alerts, invasions, news, Darvo sales, etc) by platform:
+
+ 
+
+PC: http://content.warframe.com/dynamic/worldState.php
+
+PlayStation 4: http://content.ps4.warframe.com/dynamic/worldState.php
+
+Xbox One: http://content.xb1.warframe.com/dynamic/worldState.php
