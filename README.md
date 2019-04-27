@@ -21,6 +21,7 @@ the [Warframe Wiki page](https://en.wikipedia.org/wiki/Warframe)
 * [JetBrains' Intellij IDEA Community Version](https://www.jetbrains.com/idea/)
 * [Maven build system](https://maven.apache.org)
 * [Doxygen](http://doxygen.nl/)
+* [Groovy](http://groovy-lang.org/documentation.html)
 
 ## TODOs
 
