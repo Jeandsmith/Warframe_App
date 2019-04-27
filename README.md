@@ -24,12 +24,12 @@ the [Swing API](https://en.wikipedia.org/wiki/Swing_(Java)).
 
 ## TODOs
 
-- [] Learn Warframe API.
-- [] Collect Resource and Components data from official [Warframe](https://www.warframe.com/) page.
-- [] Learn Java Swing API.
-- [] Whatever else is there.
+- [ ] Learn Warframe API.
+- [ ] Collect Resource and Components data from official [Warframe](https://www.warframe.com/) page.
+- [ ] Learn Java Swing API.
+- [ ] Whatever else is there.
 
 ## Credit
 
-* Logo - [CrazyTaco93](https://www.deviantart.com/crazytaco93/art/Warframe-513160599) *
-* Font - [Asian Music Records](https://www.dropbox.com/s/xfamas87v5b2dda/Warframe%20Fan%20Font.zip?dl=0) *
+*Logo - [CrazyTaco93](https://www.deviantart.com/crazytaco93/art/Warframe-513160599)*
+*Font - [Asian Music Records](https://www.dropbox.com/s/xfamas87v5b2dda/Warframe%20Fan%20Font.zip?dl=0)*
