@@ -21,3 +21,15 @@ the [Warframe Wiki page](https://en.wikipedia.org/wiki/Warframe)
 ## The Swing API
 For the main desktop application I will be using Java and 
 the [Swing API](https://en.wikipedia.org/wiki/Swing_(Java)).
+
+## TODOs
+
+- [] Learn Warframe API.
+- [] Collect Resource and Components data from official [Warframe](https://www.warframe.com/) page.
+- [] Learn Java Swing API.
+- [] Whatever else is there.
+
+## Credit
+
+* Logo - [CrazyTaco93](https://www.deviantart.com/crazytaco93/art/Warframe-513160599) *
+* Font - [Asian Music Records](https://www.dropbox.com/s/xfamas87v5b2dda/Warframe%20Fan%20Font.zip?dl=0) *
