@@ -4,12 +4,12 @@
 # Tenno Managament System
 
 # Description of Project
-&nbsp;&nbsp;&nbsp;&nbsp;This will be a simple application to manage Tenno inventory,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will be a simple application to manage Tenno inventory,
 and location in which components, and resources can be found.
 Hopefully, with drop chance.
 
-&nbsp;&nbsp;&nbsp;&nbsp;For more information on Warframes the games see: 
-The [Warframe](https://www.warframe.com/) page and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information on Warframes the games see: 
+The <span style="color:black">[Warframe](https://www.warframe.com/)</span> page and
 the [Warframe Wiki page](https://en.wikipedia.org/wiki/Warframe)
 
 ## Dev Stack
